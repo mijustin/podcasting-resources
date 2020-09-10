@@ -170,6 +170,7 @@ Look out for monthly upload quotas and look into their business model/whether th
 * [WordPress.com][18] - $5/month and up plans support audio uploading and can be used for podcasting.
 * [Simplecast][23] - $12 a month, unlimited uploads/bandwidth.
 * [Squarespace](http://www.squarespace.com/rocket) - If you have a legacy Squarespace plan, they are a good/easy option for podcasting. Squarespace is likely too expensive to use primarily as a podcast host, but if you also want to use Squarespace as a website builder or store, it's a good option. You can use the code 'ROCKET' to get 10% off at sign-up.
+* [Transistor.fm](https://transistor.fm/) – If you want to host multiple podcasts, without having to pay for each additional show, Transistor is a good option. For $19/month you can create as many unique podcast feeds as you'd like.
 
     You can also embed a podcast feed from any other service into Squarespace.
 
